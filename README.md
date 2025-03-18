@@ -36,3 +36,7 @@ Welcome to Shopnix a dynamic and interactive website designed to showcase and ma
 4️⃣ Experience the smooth and interactive UI.  
 
 ---
+<img width="1434" alt="1" src="https://github.com/user-attachments/assets/e424ebae-5172-47a4-b285-0ca6079faad2" />
+<img width="1433" alt="2" src="https://github.com/user-attachments/assets/826cc227-e558-4d95-92ef-4657349ed04d" />
+<img width="1440" alt="3" src="https://github.com/user-attachments/assets/8bbddd69-453a-4448-98ec-2e69a2bb8b18" />
+
