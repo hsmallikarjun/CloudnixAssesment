@@ -1,22 +1,38 @@
-Shopnix--assignment
 
-Creating a interactive website for Shopnix.
+# 🚀 **Shopnix Assignment** | Interactive E-Commerce Website  
 
-Technologies Used
+Welcome to Shopnix a dynamic and interactive website designed to showcase and manage products efficiently.  
 
-1.HTML5
+🔗 **Live Demo**: [Shopnix Website](https://hsmallikarjun.github.io/CloudnixAssesment/)  
 
-2.CSS3
+---
 
-3.JavaScript
+## ✨ **Technologies Used**  
 
-4.Bootstrap
+🚀 **Frontend Stack**  
+- 🏗 **HTML5** – The foundation of the web.  
+- 🎨 **CSS3** – For stylish and responsive designs.  
+- ⚡ **JavaScript** – Adding interactivity and dynamic elements.  
+- 📱 **Bootstrap** – Ensuring a mobile-friendly and modern UI.  
+- 🔄 **jQuery** – Simplifying DOM manipulation and event handling.  
 
-5.Jquery
+---
 
-Website link
-https://hsmallikarjun.github.io/CloudnixAssesment/
+## 🛍 **About Shopnix**  
 
+🔹 **Demo E-Commerce Website** – This project serves as a functional prototype, allowing users to:  
+✅ Add product details  
+✅ Set prices and discounts  
+✅ Explore an interactive UI  
 
-About Website
-This Website is a demo. You can add your product details,prices,discounted prices etc.
+💡 Perfect for businesses looking to manage and display products efficiently**!  
+
+---
+
+## 📌 **How to Use**  
+1️⃣ Open the [Live Demo](https://hsmallikarjun.github.io/CloudnixAssesment/).  
+2️⃣ Browse through the product catalog.  
+3️⃣ Add your product details and pricing.  
+4️⃣ Experience the smooth and interactive UI.  
+
+---
