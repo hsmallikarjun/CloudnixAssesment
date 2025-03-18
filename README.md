@@ -15,6 +15,7 @@ Technologies Used
 5.Jquery
 
 Website link
+https://hsmallikarjun.github.io/CloudnixAssesment/
 
 
 About Website
